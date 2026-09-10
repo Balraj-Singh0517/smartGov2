@@ -1,0 +1,6 @@
+{
+  "name": "SmartGov Portal",
+  "description": "AI-powered civic grievance resolution platform with multilingual routing, duplicate detection, officer workflows, and performance analytics.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
